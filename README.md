@@ -1,2 +1,2 @@
 # JSP-Basics
- Practicing the Java Server Pages concepts with hands-on-coding
+ Practicing the Java Server Pages basic concepts with hands-on-coding
